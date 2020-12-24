@@ -12,12 +12,12 @@ A powerful Python Script to automate Facebook password Bruteforce . Developed by
 - Automatic Facebook Key Bruteforce Attack.
 
 
-##Requirements </br>
+###Requirements </br>
 `pkg install python` </br>
 `pkg install python2` </br>
 
 
-##How to Use - 
+###How to Use - 
 - You should have a `password.txt` wordlist file on your directory. </br>
 `termux-setup-storage` </br>
 `pip2 istall mechanize` </br>
@@ -26,7 +26,7 @@ A powerful Python Script to automate Facebook password Bruteforce . Developed by
 `/sdcard/password.txt/` </br>
 
 
-##Disclamer
+###Disclamer
 
-Use this tool only for educational purpose. Iam aka. dipesh dhakal is not responsible for any misuse of this tool.
+Use this tool only for educational purpose. Iam aka. Dipesh Dhakal is not responsible for any misuse of this tool.
 
